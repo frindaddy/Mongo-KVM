@@ -1,0 +1,177 @@
+Added Component: Designator=J4_U_USB_IN1(MOLEX_48406)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "48406-0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/48406-0003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4_U_USB_IN2(MOLEX_48406)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "48406-0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/48406-0003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6_U_USB_OUT_A1(MOLEX_48406)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "48406-0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/48406-0003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6_U_USB_OUT_A2(MOLEX_48406)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "48406-0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/48406-0003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_U_USB_OUT_B1(MOLEX_48406)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "48406-0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/48406-0003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7_U_USB_OUT_B2(MOLEX_48406)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "48406-0003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/48406-0003/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/48406-0003/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN1_17 Pin=J1_U_HDMI_IN1-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN2_17 Pin=J1_U_HDMI_IN2-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN3_17 Pin=J1_U_HDMI_IN3-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN4_17 Pin=J1_U_HDMI_IN4-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN5_17 Pin=J1_U_HDMI_IN5-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN1_17 Pin=J2_U_HDMI_IN1-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN2_17 Pin=J2_U_HDMI_IN2-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN3_17 Pin=J2_U_HDMI_IN3-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN4_17 Pin=J2_U_HDMI_IN4-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN5_17 Pin=J2_U_HDMI_IN5-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT1_17 Pin=J3_U_HDMI_OUT1-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT2_17 Pin=J3_U_HDMI_OUT2-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT3_17 Pin=J3_U_HDMI_OUT3-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT4_17 Pin=J3_U_HDMI_OUT4-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT5_17 Pin=J3_U_HDMI_OUT5-17
+Added Pin To Net: NetName=USB_IN_A.D_U_USB_SWITCH_A1_N Pin=J4_U_USB_IN1-2
+Added Pin To Net: NetName=USB_IN_A.D_U_USB_SWITCH_A1_P Pin=J4_U_USB_IN1-3
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN1-4
+Added Pin To Net: NetName=USB_IN_A.RX_U_USB_SWITCH_A1_N Pin=J4_U_USB_IN1-5
+Added Pin To Net: NetName=USB_IN_A.RX_U_USB_SWITCH_A1_P Pin=J4_U_USB_IN1-6
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN1-7
+Added Pin To Net: NetName=USB_IN_A.TX_U_USB_SWITCH_A1_N Pin=J4_U_USB_IN1-8
+Added Pin To Net: NetName=USB_IN_A.TX_U_USB_SWITCH_A1_P Pin=J4_U_USB_IN1-9
+Added Pin To Net: NetName=USB_IN_B.D_U_USB_SWITCH_B1_N Pin=J4_U_USB_IN1-11
+Added Pin To Net: NetName=USB_IN_B.D_U_USB_SWITCH_B1_P Pin=J4_U_USB_IN1-12
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN1-13
+Added Pin To Net: NetName=USB_IN_B.RX_U_USB_SWITCH_B1_N Pin=J4_U_USB_IN1-14
+Added Pin To Net: NetName=USB_IN_B.RX_U_USB_SWITCH_B1_P Pin=J4_U_USB_IN1-15
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN1-16
+Added Pin To Net: NetName=USB_IN_B.TX_U_USB_SWITCH_B1_N Pin=J4_U_USB_IN1-17
+Added Pin To Net: NetName=USB_IN_B.TX_U_USB_SWITCH_B1_P Pin=J4_U_USB_IN1-18
+Added Pin To Net: NetName=USB_IN_A.D_U_USB_SWITCH_A2_N Pin=J4_U_USB_IN2-2
+Added Pin To Net: NetName=USB_IN_A.D_U_USB_SWITCH_A2_P Pin=J4_U_USB_IN2-3
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN2-4
+Added Pin To Net: NetName=USB_IN_A.RX_U_USB_SWITCH_A2_N Pin=J4_U_USB_IN2-5
+Added Pin To Net: NetName=USB_IN_A.RX_U_USB_SWITCH_A2_P Pin=J4_U_USB_IN2-6
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN2-7
+Added Pin To Net: NetName=USB_IN_A.TX_U_USB_SWITCH_A2_N Pin=J4_U_USB_IN2-8
+Added Pin To Net: NetName=USB_IN_A.TX_U_USB_SWITCH_A2_P Pin=J4_U_USB_IN2-9
+Added Pin To Net: NetName=USB_IN_B.D_U_USB_SWITCH_B2_N Pin=J4_U_USB_IN2-11
+Added Pin To Net: NetName=USB_IN_B.D_U_USB_SWITCH_B2_P Pin=J4_U_USB_IN2-12
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN2-13
+Added Pin To Net: NetName=USB_IN_B.RX_U_USB_SWITCH_B2_N Pin=J4_U_USB_IN2-14
+Added Pin To Net: NetName=USB_IN_B.RX_U_USB_SWITCH_B2_P Pin=J4_U_USB_IN2-15
+Added Pin To Net: NetName=GND Pin=J4_U_USB_IN2-16
+Added Pin To Net: NetName=USB_IN_B.TX_U_USB_SWITCH_B2_N Pin=J4_U_USB_IN2-17
+Added Pin To Net: NetName=USB_IN_B.TX_U_USB_SWITCH_B2_P Pin=J4_U_USB_IN2-18
+Added Pin To Net: NetName=USB_OUT_A_1.D_U_USB_SWITCH_A1_N Pin=J6_U_USB_OUT_A1-2
+Added Pin To Net: NetName=USB_OUT_A_1.D_U_USB_SWITCH_A1_P Pin=J6_U_USB_OUT_A1-3
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A1-4
+Added Pin To Net: NetName=USB_OUT_A_1.RX_U_USB_SWITCH_A1_N Pin=J6_U_USB_OUT_A1-5
+Added Pin To Net: NetName=USB_OUT_A_1.RX_U_USB_SWITCH_A1_P Pin=J6_U_USB_OUT_A1-6
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A1-7
+Added Pin To Net: NetName=USB_OUT_A_1.TX_U_USB_SWITCH_A1_N Pin=J6_U_USB_OUT_A1-8
+Added Pin To Net: NetName=USB_OUT_A_1.TX_U_USB_SWITCH_A1_P Pin=J6_U_USB_OUT_A1-9
+Added Pin To Net: NetName=USB_OUT_A_2.D_U_USB_SWITCH_A1_N Pin=J6_U_USB_OUT_A1-11
+Added Pin To Net: NetName=USB_OUT_A_2.D_U_USB_SWITCH_A1_P Pin=J6_U_USB_OUT_A1-12
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A1-13
+Added Pin To Net: NetName=USB_OUT_A_2.RX_U_USB_SWITCH_A1_N Pin=J6_U_USB_OUT_A1-14
+Added Pin To Net: NetName=USB_OUT_A_2.RX_U_USB_SWITCH_A1_P Pin=J6_U_USB_OUT_A1-15
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A1-16
+Added Pin To Net: NetName=USB_OUT_A_2.TX_U_USB_SWITCH_A1_N Pin=J6_U_USB_OUT_A1-17
+Added Pin To Net: NetName=USB_OUT_A_2.TX_U_USB_SWITCH_A1_P Pin=J6_U_USB_OUT_A1-18
+Added Pin To Net: NetName=USB_OUT_A_1.D_U_USB_SWITCH_A2_N Pin=J6_U_USB_OUT_A2-2
+Added Pin To Net: NetName=USB_OUT_A_1.D_U_USB_SWITCH_A2_P Pin=J6_U_USB_OUT_A2-3
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A2-4
+Added Pin To Net: NetName=USB_OUT_A_1.RX_U_USB_SWITCH_A2_N Pin=J6_U_USB_OUT_A2-5
+Added Pin To Net: NetName=USB_OUT_A_1.RX_U_USB_SWITCH_A2_P Pin=J6_U_USB_OUT_A2-6
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A2-7
+Added Pin To Net: NetName=USB_OUT_A_1.TX_U_USB_SWITCH_A2_N Pin=J6_U_USB_OUT_A2-8
+Added Pin To Net: NetName=USB_OUT_A_1.TX_U_USB_SWITCH_A2_P Pin=J6_U_USB_OUT_A2-9
+Added Pin To Net: NetName=USB_OUT_A_2.D_U_USB_SWITCH_A2_N Pin=J6_U_USB_OUT_A2-11
+Added Pin To Net: NetName=USB_OUT_A_2.D_U_USB_SWITCH_A2_P Pin=J6_U_USB_OUT_A2-12
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A2-13
+Added Pin To Net: NetName=USB_OUT_A_2.RX_U_USB_SWITCH_A2_N Pin=J6_U_USB_OUT_A2-14
+Added Pin To Net: NetName=USB_OUT_A_2.RX_U_USB_SWITCH_A2_P Pin=J6_U_USB_OUT_A2-15
+Added Pin To Net: NetName=GND Pin=J6_U_USB_OUT_A2-16
+Added Pin To Net: NetName=USB_OUT_A_2.TX_U_USB_SWITCH_A2_N Pin=J6_U_USB_OUT_A2-17
+Added Pin To Net: NetName=USB_OUT_A_2.TX_U_USB_SWITCH_A2_P Pin=J6_U_USB_OUT_A2-18
+Added Pin To Net: NetName=USB_OUT_B_1.D_U_USB_SWITCH_B1_N Pin=J7_U_USB_OUT_B1-2
+Added Pin To Net: NetName=USB_OUT_B_1.D_U_USB_SWITCH_B1_P Pin=J7_U_USB_OUT_B1-3
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B1-4
+Added Pin To Net: NetName=USB_OUT_B_1.RX_U_USB_SWITCH_B1_N Pin=J7_U_USB_OUT_B1-5
+Added Pin To Net: NetName=USB_OUT_B_1.RX_U_USB_SWITCH_B1_P Pin=J7_U_USB_OUT_B1-6
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B1-7
+Added Pin To Net: NetName=USB_OUT_B_1.TX_U_USB_SWITCH_B1_N Pin=J7_U_USB_OUT_B1-8
+Added Pin To Net: NetName=USB_OUT_B_1.TX_U_USB_SWITCH_B1_P Pin=J7_U_USB_OUT_B1-9
+Added Pin To Net: NetName=USB_OUT_B_2.D_U_USB_SWITCH_B1_N Pin=J7_U_USB_OUT_B1-11
+Added Pin To Net: NetName=USB_OUT_B_2.D_U_USB_SWITCH_B1_P Pin=J7_U_USB_OUT_B1-12
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B1-13
+Added Pin To Net: NetName=USB_OUT_B_2.RX_U_USB_SWITCH_B1_N Pin=J7_U_USB_OUT_B1-14
+Added Pin To Net: NetName=USB_OUT_B_2.RX_U_USB_SWITCH_B1_P Pin=J7_U_USB_OUT_B1-15
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B1-16
+Added Pin To Net: NetName=USB_OUT_B_2.TX_U_USB_SWITCH_B1_N Pin=J7_U_USB_OUT_B1-17
+Added Pin To Net: NetName=USB_OUT_B_2.TX_U_USB_SWITCH_B1_P Pin=J7_U_USB_OUT_B1-18
+Added Pin To Net: NetName=USB_OUT_B_1.D_U_USB_SWITCH_B2_N Pin=J7_U_USB_OUT_B2-2
+Added Pin To Net: NetName=USB_OUT_B_1.D_U_USB_SWITCH_B2_P Pin=J7_U_USB_OUT_B2-3
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B2-4
+Added Pin To Net: NetName=USB_OUT_B_1.RX_U_USB_SWITCH_B2_N Pin=J7_U_USB_OUT_B2-5
+Added Pin To Net: NetName=USB_OUT_B_1.RX_U_USB_SWITCH_B2_P Pin=J7_U_USB_OUT_B2-6
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B2-7
+Added Pin To Net: NetName=USB_OUT_B_1.TX_U_USB_SWITCH_B2_N Pin=J7_U_USB_OUT_B2-8
+Added Pin To Net: NetName=USB_OUT_B_1.TX_U_USB_SWITCH_B2_P Pin=J7_U_USB_OUT_B2-9
+Added Pin To Net: NetName=USB_OUT_B_2.D_U_USB_SWITCH_B2_N Pin=J7_U_USB_OUT_B2-11
+Added Pin To Net: NetName=USB_OUT_B_2.D_U_USB_SWITCH_B2_P Pin=J7_U_USB_OUT_B2-12
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B2-13
+Added Pin To Net: NetName=USB_OUT_B_2.RX_U_USB_SWITCH_B2_N Pin=J7_U_USB_OUT_B2-14
+Added Pin To Net: NetName=USB_OUT_B_2.RX_U_USB_SWITCH_B2_P Pin=J7_U_USB_OUT_B2-15
+Added Pin To Net: NetName=GND Pin=J7_U_USB_OUT_B2-16
+Added Pin To Net: NetName=USB_OUT_B_2.TX_U_USB_SWITCH_B2_N Pin=J7_U_USB_OUT_B2-17
+Added Pin To Net: NetName=USB_OUT_B_2.TX_U_USB_SWITCH_B2_P Pin=J7_U_USB_OUT_B2-18
+Added Member To Class: ClassName=U_USB_IN1 Member=Component J4_U_USB_IN1 (J4A) 48406-0003
+Added Member To Class: ClassName=U_USB_IN2 Member=Component J4_U_USB_IN2 (J4A) 48406-0003
+Added Member To Class: ClassName=U_USB_OUT_A1 Member=Component J6_U_USB_OUT_A1 (J6A) 48406-0003
+Added Member To Class: ClassName=U_USB_OUT_A2 Member=Component J6_U_USB_OUT_A2 (J6A) 48406-0003
+Added Member To Class: ClassName=U_USB_OUT_B1 Member=Component J7_U_USB_OUT_B1 (J7A) 48406-0003
+Added Member To Class: ClassName=U_USB_OUT_B2 Member=Component J7_U_USB_OUT_B2 (J7A) 48406-0003

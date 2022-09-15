@@ -1,0 +1,13 @@
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN1_17 Pin=J1_U_HDMI_IN1-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN2_17 Pin=J1_U_HDMI_IN2-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN3_17 Pin=J1_U_HDMI_IN3-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN4_17 Pin=J1_U_HDMI_IN4-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN1_17 Pin=J2_U_HDMI_IN1-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN2_17 Pin=J2_U_HDMI_IN2-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN3_17 Pin=J2_U_HDMI_IN3-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN4_17 Pin=J2_U_HDMI_IN4-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT1_17 Pin=J3_U_HDMI_OUT1-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT2_17 Pin=J3_U_HDMI_OUT2-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT3_17 Pin=J3_U_HDMI_OUT3-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT4_17 Pin=J3_U_HDMI_OUT4-17

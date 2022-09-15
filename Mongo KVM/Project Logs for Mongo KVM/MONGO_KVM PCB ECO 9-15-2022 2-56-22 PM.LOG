@@ -1,0 +1,285 @@
+Removed Pin From Net: NetName=5V Pin=R2_U_HDMI_SWITCH1-1
+Removed Pin From Net: NetName=5V Pin=R2_U_HDMI_SWITCH2-1
+Removed Pin From Net: NetName=5V Pin=R2_U_HDMI_SWITCH3-1
+Removed Pin From Net: NetName=5V Pin=R2_U_HDMI_SWITCH4-1
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=R3_U_HDMI_SWITCH1 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R3_U_HDMI_SWITCH2 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R3_U_HDMI_SWITCH3 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R3_U_HDMI_SWITCH4 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R4_U_USB_SWITCH_A1 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R4_U_USB_SWITCH_A2 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R2_U_HDMI_SWITCH1 Old Footprint=FP-RT0402-MFG New Footprint=FP-RK73H1J-IPC_C
+Change Component Footprint: Designator=R2_U_HDMI_SWITCH2 Old Footprint=FP-RT0402-MFG New Footprint=FP-RK73H1J-IPC_C
+Change Component Footprint: Designator=R2_U_HDMI_SWITCH3 Old Footprint=FP-RT0402-MFG New Footprint=FP-RK73H1J-IPC_C
+Change Component Footprint: Designator=R2_U_HDMI_SWITCH4 Old Footprint=FP-RT0402-MFG New Footprint=FP-RK73H1J-IPC_C
+Change Component Comment : Designator=R3_U_HDMI_SWITCH1 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R3_U_HDMI_SWITCH2 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R3_U_HDMI_SWITCH3 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R3_U_HDMI_SWITCH4 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R4_U_USB_SWITCH_A1 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R4_U_USB_SWITCH_A2 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R2_U_HDMI_SWITCH1 Old Comment=RT0402 New Comment=RK73H1JLTD1003F
+Change Component Comment : Designator=R2_U_HDMI_SWITCH2 Old Comment=RT0402 New Comment=RK73H1JLTD1003F
+Change Component Comment : Designator=R2_U_HDMI_SWITCH3 Old Comment=RT0402 New Comment=RK73H1JLTD1003F
+Change Component Comment : Designator=R2_U_HDMI_SWITCH4 Old Comment=RT0402 New Comment=RK73H1JLTD1003F
+Change Managed Component Library Link : Designator=R2_U_HDMI_SWITCH1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15DED57E-8767-455F-8D1F-BC95D5A7BA69 Old RevisionGUID= New RevisionGUID=20BBAB12-8B9E-4238-98D0-6C0ADBB9E5C0
+Change Managed Component Library Link : Designator=R2_U_HDMI_SWITCH2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15DED57E-8767-455F-8D1F-BC95D5A7BA69 Old RevisionGUID= New RevisionGUID=20BBAB12-8B9E-4238-98D0-6C0ADBB9E5C0
+Change Managed Component Library Link : Designator=R2_U_HDMI_SWITCH3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15DED57E-8767-455F-8D1F-BC95D5A7BA69 Old RevisionGUID= New RevisionGUID=20BBAB12-8B9E-4238-98D0-6C0ADBB9E5C0
+Change Managed Component Library Link : Designator=R2_U_HDMI_SWITCH4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15DED57E-8767-455F-8D1F-BC95D5A7BA69 Old RevisionGUID= New RevisionGUID=20BBAB12-8B9E-4238-98D0-6C0ADBB9E5C0
+Change Managed Component Library Link : Designator=R3_U_HDMI_SWITCH1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change Managed Component Library Link : Designator=R3_U_HDMI_SWITCH2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change Managed Component Library Link : Designator=R3_U_HDMI_SWITCH3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change Managed Component Library Link : Designator=R3_U_HDMI_SWITCH4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change Managed Component Library Link : Designator=R4_U_USB_SWITCH_A1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change Managed Component Library Link : Designator=R4_U_USB_SWITCH_A2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change component parameters: Designator = "R2_U_HDMI_SWITCH1" ("R2"); Footprint = "FP-RT0402-MFG"; UniqueID = "\0KJBNQFWI\AOQTSUQT\VQSLYPXL" ("\0KJBNQFWI\AOQTSUQT\VQSLYPXL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RK73H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_U_HDMI_SWITCH2" ("R2"); Footprint = "FP-RT0402-MFG"; UniqueID = "\1KJBNQFWI\AOQTSUQT\VQSLYPXL" ("\1KJBNQFWI\AOQTSUQT\VQSLYPXL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RK73H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_U_HDMI_SWITCH3" ("R2"); Footprint = "FP-RT0402-MFG"; UniqueID = "\2KJBNQFWI\AOQTSUQT\VQSLYPXL" ("\2KJBNQFWI\AOQTSUQT\VQSLYPXL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RK73H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_U_HDMI_SWITCH4" ("R2"); Footprint = "FP-RT0402-MFG"; UniqueID = "\3KJBNQFWI\AOQTSUQT\VQSLYPXL" ("\3KJBNQFWI\AOQTSUQT\VQSLYPXL")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RK73H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_U_HDMI_SWITCH1" ("R3"); Footprint = "FP-RT0402-MFG"; UniqueID = "\0KJBNQFWI\AOQTSUQT\LJGSIQVF" ("\0KJBNQFWI\AOQTSUQT\LJGSIQVF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_U_HDMI_SWITCH2" ("R3"); Footprint = "FP-RT0402-MFG"; UniqueID = "\1KJBNQFWI\AOQTSUQT\LJGSIQVF" ("\1KJBNQFWI\AOQTSUQT\LJGSIQVF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_U_HDMI_SWITCH3" ("R3"); Footprint = "FP-RT0402-MFG"; UniqueID = "\2KJBNQFWI\AOQTSUQT\LJGSIQVF" ("\2KJBNQFWI\AOQTSUQT\LJGSIQVF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_U_HDMI_SWITCH4" ("R3"); Footprint = "FP-RT0402-MFG"; UniqueID = "\3KJBNQFWI\AOQTSUQT\LJGSIQVF" ("\3KJBNQFWI\AOQTSUQT\LJGSIQVF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_U_USB_SWITCH_A1" ("R4"); Footprint = "FP-RT0402-MFG"; UniqueID = "\0NHWWTSLD\TBQFVNZF\AXJDUJDZ" ("\0NHWWTSLD\TBQFVNZF\AXJDUJDZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_U_USB_SWITCH_A2" ("R4"); Footprint = "FP-RT0402-MFG"; UniqueID = "\1NHWWTSLD\TBQFVNZF\AXJDUJDZ" ("\1NHWWTSLD\TBQFVNZF\AXJDUJDZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_USB_SWITCH_A1(FP-CRCW0805-e3-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_USB_SWITCH_A2(FP-CRCW0805-e3-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN1_17 Pin=J1_U_HDMI_IN1-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN2_17 Pin=J1_U_HDMI_IN2-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN3_17 Pin=J1_U_HDMI_IN3-17
+Added Pin To Net: NetName=NetJ1_U_HDMI_IN4_17 Pin=J1_U_HDMI_IN4-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN1_17 Pin=J2_U_HDMI_IN1-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN2_17 Pin=J2_U_HDMI_IN2-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN3_17 Pin=J2_U_HDMI_IN3-17
+Added Pin To Net: NetName=NetJ2_U_HDMI_IN4_17 Pin=J2_U_HDMI_IN4-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT1_17 Pin=J3_U_HDMI_OUT1-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT2_17 Pin=J3_U_HDMI_OUT2-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT3_17 Pin=J3_U_HDMI_OUT3-17
+Added Pin To Net: NetName=NetJ3_U_HDMI_OUT4_17 Pin=J3_U_HDMI_OUT4-17
+Added Pin To Net: NetName=3V3 Pin=R2_U_HDMI_SWITCH1-2
+Added Pin To Net: NetName=3V3 Pin=R2_U_HDMI_SWITCH2-2
+Added Pin To Net: NetName=3V3 Pin=R2_U_HDMI_SWITCH3-2
+Added Pin To Net: NetName=3V3 Pin=R2_U_HDMI_SWITCH4-2
+Added Pin To Net: NetName=GND Pin=R9_U_USB_SWITCH_A1-1
+Added Pin To Net: NetName=NetR3_U_HDMI_SWITCH1_2 Pin=R9_U_USB_SWITCH_A1-2
+Added Pin To Net: NetName=GND Pin=R9_U_USB_SWITCH_A2-1
+Added Pin To Net: NetName=NetR3_U_HDMI_SWITCH1_2 Pin=R9_U_USB_SWITCH_A2-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(56, 118, 29)
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH1_1 Pin=R2_U_HDMI_SWITCH1-1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH1_1 Pin=U1_U_HDMI_SWITCH1-32
+Added Net: Name=NetR2_U_HDMI_SWITCH1_1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH2_1 Pin=R2_U_HDMI_SWITCH2-1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH2_1 Pin=U1_U_HDMI_SWITCH2-32
+Added Net: Name=NetR2_U_HDMI_SWITCH2_1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH3_1 Pin=R2_U_HDMI_SWITCH3-1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH3_1 Pin=U1_U_HDMI_SWITCH3-32
+Added Net: Name=NetR2_U_HDMI_SWITCH3_1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH4_1 Pin=R2_U_HDMI_SWITCH4-1
+Added Pin To Net: NetName=NetR2_U_HDMI_SWITCH4_1 Pin=U1_U_HDMI_SWITCH4-32
+Added Net: Name=NetR2_U_HDMI_SWITCH4_1
+Added Member To Class: ClassName=U_USB_SWITCH_A1 Member=Component R9_U_USB_SWITCH_A1 (R9) CRCW080540K0FKEA
+Added Member To Class: ClassName=U_USB_SWITCH_A2 Member=Component R9_U_USB_SWITCH_A2 (R9) CRCW080540K0FKEA

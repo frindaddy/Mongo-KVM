@@ -1,0 +1,6 @@
+Update Managed Component C1 From CMP-2006-02243-2[C0603C105Z8VACTU] To CMP-2006-02243-2[C0603C105Z8VACTU] in SWITCH.SchDoc
+Update Managed Component R6 From CMP-04015-074272-1[RK73H1JLTD1003F] To CMP-04015-074272-1[RK73H1JLTD1003F] in SWITCH.SchDoc
+Update Managed Component R7 From CMP-12256-000003-1[MC01W0805110K] To CMP-12256-000003-1[MC01W0805110K] in SWITCH.SchDoc
+Update Managed Component R8 From CMP-12256-000003-1[MC01W0805110K] To CMP-12256-000003-1[MC01W0805110K] in SWITCH.SchDoc
+Replace Part S1 FSM8JH in C:\Users\Public\Documents\Altium\Projects\Mongo KVM\SWITCH.SchDoc with FSM8JH from KVM Library.IntLib
+Replace Part U5 NE555DR in C:\Users\Public\Documents\Altium\Projects\Mongo KVM\SWITCH.SchDoc with NE555DR from KVM Library.IntLib

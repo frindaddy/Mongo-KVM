@@ -1,0 +1,217 @@
+Add Component: Footprint Not Found MOLEX_48406-0003
+Add Component: Footprint Not Found MOLEX_48406-0003
+Add Component: Footprint Not Found FCI_10118193-0001LF
+Add Component: Footprint Not Found MOLEX_48406-0003
+Add Component: Footprint Not Found MOLEX_48406-0003
+Add Component: Footprint Not Found MOLEX_48406-0003
+Add Component: Footprint Not Found MOLEX_48406-0003
+Add Component: Footprint Not Found SW_FSM8JH
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN1-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN2-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN3-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN4-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN5-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN1-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN2-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN3-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN4-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN5-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT1-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT2-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT3-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT4-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT5-17
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-2
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-3
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-4
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-5
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-6
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-7
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-8
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-9
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-11
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-12
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-13
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-14
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-15
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-16
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-17
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN1-18
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-2
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-3
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-4
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-5
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-6
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-7
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-8
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-9
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-11
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-12
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-13
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-14
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-15
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-16
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-17
+Add Pin To Net: Unknown Pin: Pin J4_U_USB_IN2-18
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-2
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-3
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-4
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-5
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-6
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-7
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-8
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-9
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-11
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-12
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-13
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-14
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-15
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-16
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-17
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A1-18
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-2
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-3
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-4
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-5
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-6
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-7
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-8
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-9
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-11
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-12
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-13
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-14
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-15
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-16
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-17
+Add Pin To Net: Unknown Pin: Pin J6_U_USB_OUT_A2-18
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-2
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-3
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-4
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-5
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-6
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-7
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-8
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-9
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-11
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-12
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-13
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-14
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-15
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-16
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-17
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B1-18
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-2
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-3
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-4
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-5
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-6
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-7
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-8
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-9
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-11
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-12
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-13
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-14
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-15
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-16
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-17
+Add Pin To Net: Unknown Pin: Pin J7_U_USB_OUT_B2-18
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH1-1
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH1-2
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH2-1
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH2-2
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH3-1
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH3-2
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH4-1
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH4-2
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH5-1
+Add Pin To Net: Unknown Pin: Pin R1_U_HDMI_SWITCH5-2
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH1-1
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH1-2
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH2-1
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH2-2
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH3-1
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH3-2
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH4-1
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH4-2
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH5-1
+Add Pin To Net: Unknown Pin: Pin R2_U_HDMI_SWITCH5-2
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH1-1
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH1-2
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH2-1
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH2-2
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH3-1
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH3-2
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH4-1
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH4-2
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH5-1
+Add Pin To Net: Unknown Pin: Pin R3_U_HDMI_SWITCH5-2
+Add Pin To Net: Unknown Pin: Pin R4_U_USB_SWITCH_A1-1
+Add Pin To Net: Unknown Pin: Pin R4_U_USB_SWITCH_A1-2
+Add Pin To Net: Unknown Pin: Pin R4_U_USB_SWITCH_A2-1
+Add Pin To Net: Unknown Pin: Pin R4_U_USB_SWITCH_A2-2
+Add Pin To Net: Unknown Pin: Pin R5_U_USB_SWITCH_B1-1
+Add Pin To Net: Unknown Pin: Pin R5_U_USB_SWITCH_B1-2
+Add Pin To Net: Unknown Pin: Pin R5_U_USB_SWITCH_B2-1
+Add Pin To Net: Unknown Pin: Pin R5_U_USB_SWITCH_B2-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Class Member: Failed to add class member : Component J4_U_USB_IN1 (J4A) 48406-0003
+Add Class Member: Failed to add class member : Component J4_U_USB_IN2 (J4A) 48406-0003
+Add Class Member: Failed to add class member : Component J5 10118193-0001LF
+Add Class Member: Failed to add class member : Component J6_U_USB_OUT_A1 (J6A) 48406-0003
+Add Class Member: Failed to add class member : Component J6_U_USB_OUT_A2 (J6A) 48406-0003
+Add Class Member: Failed to add class member : Component J7_U_USB_OUT_B1 (J7A) 48406-0003
+Add Class Member: Failed to add class member : Component J7_U_USB_OUT_B2 (J7A) 48406-0003
+Add Class Member: Failed to add class member : Component R1_U_HDMI_SWITCH1 (R1) RT0402
+Add Class Member: Failed to add class member : Component R1_U_HDMI_SWITCH2 (R1) RT0402
+Add Class Member: Failed to add class member : Component R1_U_HDMI_SWITCH3 (R1) RT0402
+Add Class Member: Failed to add class member : Component R1_U_HDMI_SWITCH4 (R1) RT0402
+Add Class Member: Failed to add class member : Component R1_U_HDMI_SWITCH5 (R1) RT0402
+Add Class Member: Failed to add class member : Component R2_U_HDMI_SWITCH1 (R2) RT0402
+Add Class Member: Failed to add class member : Component R2_U_HDMI_SWITCH2 (R2) RT0402
+Add Class Member: Failed to add class member : Component R2_U_HDMI_SWITCH3 (R2) RT0402
+Add Class Member: Failed to add class member : Component R2_U_HDMI_SWITCH4 (R2) RT0402
+Add Class Member: Failed to add class member : Component R2_U_HDMI_SWITCH5 (R2) RT0402
+Add Class Member: Failed to add class member : Component R3_U_HDMI_SWITCH1 (R3) RT0402
+Add Class Member: Failed to add class member : Component R3_U_HDMI_SWITCH2 (R3) RT0402
+Add Class Member: Failed to add class member : Component R3_U_HDMI_SWITCH3 (R3) RT0402
+Add Class Member: Failed to add class member : Component R3_U_HDMI_SWITCH4 (R3) RT0402
+Add Class Member: Failed to add class member : Component R3_U_HDMI_SWITCH5 (R3) RT0402
+Add Class Member: Failed to add class member : Component R4_U_USB_SWITCH_A1 (R4) RT0402
+Add Class Member: Failed to add class member : Component R4_U_USB_SWITCH_A2 (R4) RT0402
+Add Class Member: Failed to add class member : Component R5_U_USB_SWITCH_B1 (R5) RT0402
+Add Class Member: Failed to add class member : Component R5_U_USB_SWITCH_B2 (R5) RT0402
+Add Class Member: Failed to add class member : Component S1 FSM8JH
+Added Room: Name=U_HDMI_IN1
+Added Room: Name=U_HDMI_IN2
+Added Room: Name=U_HDMI_IN3
+Added Room: Name=U_HDMI_IN4
+Added Room: Name=U_HDMI_IN5
+Added Room: Name=U_HDMI_OUT1
+Added Room: Name=U_HDMI_OUT2
+Added Room: Name=U_HDMI_OUT3
+Added Room: Name=U_HDMI_OUT4
+Added Room: Name=U_HDMI_OUT5
+Added Room: Name=U_HDMI_SWITCH1
+Added Room: Name=U_HDMI_SWITCH2
+Added Room: Name=U_HDMI_SWITCH3
+Added Room: Name=U_HDMI_SWITCH4
+Added Room: Name=U_HDMI_SWITCH5
+Added Room: Name=U_POWER
+Added Room: Name=U_SWITCH
+Added Room: Name=U_USB_IN1
+Added Room: Name=U_USB_IN2
+Added Room: Name=U_USB_OUT_A1
+Added Room: Name=U_USB_OUT_A2
+Added Room: Name=U_USB_OUT_B1
+Added Room: Name=U_USB_OUT_B2
+Added Room: Name=U_USB_SWITCH_A1
+Added Room: Name=U_USB_SWITCH_A2
+Added Room: Name=U_USB_SWITCH_B1
+Added Room: Name=U_USB_SWITCH_B2

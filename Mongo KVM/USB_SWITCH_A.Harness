@@ -1,0 +1,3 @@
+USB_IN_A=D+,D-,TX+,TX-,RX+,RX-
+USB_OUT_A_1=D+,D-,TX+,TX-,RX+,RX-
+USB_OUT_A_2=D+,D-,TX+,TX-,RX+,RX-

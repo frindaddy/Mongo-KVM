@@ -1,0 +1,93 @@
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=R5_U_USB_SWITCH_B1 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R5_U_USB_SWITCH_B2 Old Footprint=FP-RT0402-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Comment : Designator=R5_U_USB_SWITCH_B1 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Component Comment : Designator=R5_U_USB_SWITCH_B2 Old Comment=RT0402 New Comment=CRCW080540K0FKEA
+Change Managed Component Library Link : Designator=R5_U_USB_SWITCH_B1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change Managed Component Library Link : Designator=R5_U_USB_SWITCH_B2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CF3842BB-488D-4C0B-B69D-14A12C62B8CA Old RevisionGUID= New RevisionGUID=A1467801-54FE-466F-9EB9-4CF9883A40F6
+Change component parameters: Designator = "R5_U_USB_SWITCH_B1" ("R5"); Footprint = "FP-RT0402-MFG"; UniqueID = "\0NHWWTSLD\RDCSADGQ\PECRPOFE" ("\0NHWWTSLD\RDCSADGQ\PECRPOFE")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5_U_USB_SWITCH_B2" ("R5"); Footprint = "FP-RT0402-MFG"; UniqueID = "\1NHWWTSLD\RDCSADGQ\PECRPOFE" ("\1NHWWTSLD\RDCSADGQ\PECRPOFE")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_USB_SWITCH_B1(FP-CRCW0805-e3-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_USB_SWITCH_B2(FP-CRCW0805-e3-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "40kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN1-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN2-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN3-17
+Added Pin To Net: NetName=GND Pin=J1_U_HDMI_IN4-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN1-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN2-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN3-17
+Added Pin To Net: NetName=GND Pin=J2_U_HDMI_IN4-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT1-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT2-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT3-17
+Added Pin To Net: NetName=GND Pin=J3_U_HDMI_OUT4-17
+Added Pin To Net: NetName=GND Pin=R10_U_USB_SWITCH_B1-1
+Added Pin To Net: NetName=NetR3_U_HDMI_SWITCH1_2 Pin=R10_U_USB_SWITCH_B1-2
+Added Pin To Net: NetName=GND Pin=R10_U_USB_SWITCH_B2-1
+Added Pin To Net: NetName=NetR3_U_HDMI_SWITCH1_2 Pin=R10_U_USB_SWITCH_B2-2
+Added Member To Class: ClassName=U_USB_SWITCH_B1 Member=Component R10_U_USB_SWITCH_B1 (R10) CRCW080540K0FKEA
+Added Member To Class: ClassName=U_USB_SWITCH_B2 Member=Component R10_U_USB_SWITCH_B2 (R10) CRCW080540K0FKEA
