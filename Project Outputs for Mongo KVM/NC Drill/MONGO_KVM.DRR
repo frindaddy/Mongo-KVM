@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MONGO_KVM.PcbDoc   9/16/2022  9:47:52 AM
+NCDrill File Report For: MONGO_KVM.PcbDoc   9/16/2022  9:52:49 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : MONGO_KVM-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             148       PTH        624.23mm (24.58inch)
+T1      0.3mm (12mil)                                             Round             148       PTH        624.89mm (24.60inch)
 T2      0.5mm (20mil)                                             Slot              2         PTH        14.64mm (0.58inch)
 T3      0.8mm (31mil)                                             Round             6         PTH        10.92mm (0.43inch)
 T4      0.99mm (39mil)                                            Round             4         PTH        15.50mm (0.61inch)
