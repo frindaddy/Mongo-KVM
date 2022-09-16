@@ -3,6 +3,8 @@ This project is a 4 port HDMI KVM Switch. It is powered by a 5V micro USB connec
 
 Total material cost is ~$60 at the time of writing (9/16/22).
 
+The design was created using Altium Designer, although I've made sure to include the project outputs in the repo so those without Altium can still manufacture this.
+
 ![3d](https://user-images.githubusercontent.com/58454817/190669613-90bb0c6b-b89a-4ad3-b65d-6104b1ea20f0.png)
 
 ![pwb](https://user-images.githubusercontent.com/58454817/190669607-3739b806-4f2b-4e95-b6d4-d2f2577690f1.png)
