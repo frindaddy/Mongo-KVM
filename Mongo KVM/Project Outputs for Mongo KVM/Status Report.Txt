@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [Mongo KVM.BomDoc]
+   Generated File[Bill of Materials-Mongo KVM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:52:53 AM On 9/16/2022
