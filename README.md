@@ -1,4 +1,4 @@
-# Mongo-KVM
+# 4-Port HDMI KVM
 This project is a 4 port HDMI KVM Switch. It is powered by a 5V micro USB connection.
 
 Total material cost is ~$60 at the time of writing (9/16/22).
